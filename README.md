@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Atifa Naaz.
-- 👀 I’m interested in web development & Cybersecurity.
-- 🌱 I’m currently learning Web Develoment & Data Structure and Algorithms.
+- 👀 Constantly gaining knowledge throughout life
+- 🌱 I’m currently learning Data Structure and Algorithms.
 - 💞️ I’m looking forward to work on my skills.
 - 📫 You can reach me through my email : atifanaaz9712@gmail.com
 
